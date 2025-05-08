@@ -11,7 +11,7 @@
     {
         public static void Executar()
         {
-            Console.WriteLine("Ex12 ");
+            Console.WriteLine("verificar AddEvent.cshtml");
         }
     }
 }

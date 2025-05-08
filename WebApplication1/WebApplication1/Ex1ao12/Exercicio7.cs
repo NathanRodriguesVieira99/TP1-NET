@@ -7,7 +7,7 @@
             Action<string> log = null;
 
             log?.Invoke("Mensagem que não da erro.");
-            log += msg => Console.WriteLine($"[INFO]: {msg}");
+            log += msg => Console.WriteLine($"{msg}");
             log?.Invoke("Agora com delegate configurado.");
         }
     }

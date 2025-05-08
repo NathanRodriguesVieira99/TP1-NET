@@ -4,7 +4,7 @@
     {
         public static void Executar()
         {
-            Console.WriteLine("→ verificar arquivo Index.cshtml");
+            Console.WriteLine("verificar arquivo Index.cshtml");
         }
     }
 }
