@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B877FC3-AB2D-46E6-8F3C-B9F24CE10D1E}|WebApplication2\\WebApplication2.csproj|c:\\users\\user\\source\\repos\\webapplication2\\webapplication2\\pages\\addevent.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B877FC3-AB2D-46E6-8F3C-B9F24CE10D1E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\pages\\addevent.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B877FC3-AB2D-46E6-8F3C-B9F24CE10D1E}|WebApplication2\\WebApplication2.csproj|c:\\users\\user\\source\\repos\\webapplication2\\webapplication2\\services\\eventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B877FC3-AB2D-46E6-8F3C-B9F24CE10D1E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\services\\eventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B877FC3-AB2D-46E6-8F3C-B9F24CE10D1E}|WebApplication2\\WebApplication2.csproj|c:\\users\\user\\source\\repos\\webapplication2\\webapplication2\\pages\\addproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B877FC3-AB2D-46E6-8F3C-B9F24CE10D1E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\pages\\addproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B877FC3-AB2D-46E6-8F3C-B9F24CE10D1E}|WebApplication2\\WebApplication2.csproj|c:\\users\\user\\source\\repos\\webapplication2\\webapplication2\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B877FC3-AB2D-46E6-8F3C-B9F24CE10D1E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B877FC3-AB2D-46E6-8F3C-B9F24CE10D1E}|WebApplication2\\WebApplication2.csproj|c:\\users\\user\\source\\repos\\webapplication2\\webapplication2\\pages\\addevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B877FC3-AB2D-46E6-8F3C-B9F24CE10D1E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\pages\\addevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B877FC3-AB2D-46E6-8F3C-B9F24CE10D1E}|WebApplication2\\WebApplication2.csproj|c:\\users\\user\\source\\repos\\webapplication2\\webapplication2\\pages\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B877FC3-AB2D-46E6-8F3C-B9F24CE10D1E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\pages\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B877FC3-AB2D-46E6-8F3C-B9F24CE10D1E}|WebApplication2\\WebApplication2.csproj|c:\\users\\user\\source\\repos\\webapplication2\\webapplication2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B877FC3-AB2D-46E6-8F3C-B9F24CE10D1E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B877FC3-AB2D-46E6-8F3C-B9F24CE10D1E}|WebApplication2\\WebApplication2.csproj|c:\\users\\user\\source\\repos\\webapplication2\\webapplication2\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B877FC3-AB2D-46E6-8F3C-B9F24CE10D1E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B877FC3-AB2D-46E6-8F3C-B9F24CE10D1E}|WebApplication2\\WebApplication2.csproj|c:\\users\\user\\source\\repos\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B877FC3-AB2D-46E6-8F3C-B9F24CE10D1E}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventLogger.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\WebApplication2\\WebApplication2\\Services\\EventLogger.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\EventLogger.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\WebApplication2\\WebApplication2\\Services\\EventLogger.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\EventLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:48:11.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEvent.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\WebApplication2\\WebApplication2\\Pages\\AddEvent.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Pages\\AddEvent.cshtml.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\WebApplication2\\WebApplication2\\Pages\\AddEvent.cshtml.cs",
+              "RelativeToolTip": "WebApplication2\\Pages\\AddEvent.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:46:37.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\WebApplication2\\WebApplication2\\Pages\\AddEvent.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Pages\\AddEvent.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\WebApplication2\\WebApplication2\\Pages\\AddEvent.cshtml",
+              "RelativeToolTip": "WebApplication2\\Pages\\AddEvent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T15:46:33.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\WebApplication2\\WebApplication2\\Models\\Event.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:45:45.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddProduct.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\WebApplication2\\WebApplication2\\Pages\\AddProduct.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Pages\\AddProduct.cshtml.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\WebApplication2\\WebApplication2\\Pages\\AddProduct.cshtml.cs",
+              "RelativeToolTip": "WebApplication2\\Pages\\AddProduct.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:44:44.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\WebApplication2\\WebApplication2\\Pages\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Pages\\AddProduct.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\WebApplication2\\WebApplication2\\Pages\\AddProduct.cshtml",
+              "RelativeToolTip": "WebApplication2\\Pages\\AddProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T15:44:40.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\WebApplication2\\WebApplication2\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\WebApplication2\\WebApplication2\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "WebApplication2\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:41:50.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\WebApplication2\\WebApplication2\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\WebApplication2\\WebApplication2\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T15:41:46.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:41:33.741Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

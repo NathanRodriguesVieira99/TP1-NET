@@ -1,0 +1,22 @@
+﻿@page
+@model AddEventModel
+
+<h1>Cadastrar Evento</h1>
+
+<form method="post">
+    <label>Título:</label>
+    <input asp-for="NewEvent.Title" />
+    <br />
+    <label>Data:</label>
+    <input asp-for="NewEvent.Date" type="date" />
+    <br />
+    <label>Local:</label>
+    <input asp-for="NewEvent.Location" />
+    <br />
+    <button type="submit">Cadastrar Evento</button>
+</form>
+
+@if (Model.Submitted)
+{
+    <p>Evento cadastrado: @Model.NewEvent.Title</p>
+}
